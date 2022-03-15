@@ -20,3 +20,4 @@ This is an example project of how to use Spring WebSocket integrated with Messag
 To see this code running watch my [YouTube video here](https://youtu.be/pj0zVBOUd58).
 
 
+https://www.youtube.com/watch?v=pj0zVBOUd58
